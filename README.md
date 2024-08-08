@@ -1,7 +1,6 @@
 ## Olá eu sou o Fabio Brasil 👋
 
-- Hoje trabalho como desenvolvedor front-end 🛠️💻
-- Estudando Typescript 🤓
+- Hoje trabalho como desenvolvedor full-stack 🛠️💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
